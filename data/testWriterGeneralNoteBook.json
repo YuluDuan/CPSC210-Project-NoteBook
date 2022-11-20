@@ -1,0 +1,16 @@
+{
+    "notes": [
+        {
+            "courseName": "CPSC-210",
+            "topic": "Interface",
+            "content": "interface is important."
+        },
+        {
+            "courseName": "MATH-221",
+            "topic": "Vectors",
+            "content": "Vectors has direction"
+        }
+    ],
+    "studentName": "lucy",
+    "state": "private"
+}

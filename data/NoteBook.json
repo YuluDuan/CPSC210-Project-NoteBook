@@ -1,0 +1,36 @@
+{
+    "notes": [
+        {
+            "courseName": "cpsc-210",
+            "topic": "interface",
+            "content": "interface is really important!!"
+        },
+        {
+            "courseName": "cpsc-121",
+            "topic": "proof",
+            "content": "the methods of proof is a basic point you should learn "
+        },
+        {
+            "courseName": "math-221",
+            "topic": "vectors",
+            "content": "vectors have direction and magnitute."
+        },
+        {
+            "courseName": "math-200",
+            "topic": "integration",
+            "content": "integration rules!"
+        },
+        {
+            "courseName": "atsc-113",
+            "topic": "snow module",
+            "content": "pay attention to the hazards of avalanches"
+        },
+        {
+            "courseName": "cpsc-310",
+            "topic": "ii",
+            "content": "ii"
+        }
+    ],
+    "studentName": "duanyulu",
+    "state": "private"
+}
